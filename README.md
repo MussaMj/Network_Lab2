@@ -95,7 +95,7 @@ A primeira etapa consistiu na criação de VLANs específicas para cada departam
 Esta configuração permitiu separar logicamente os três departamentos dentro da mesma infraestrutura física.
 
 <p align="center">
-  <img src="imagens/topologia.png" alt="Topologia da rede empresarial" width="900">
+  <img src="Labs/pro2.png" alt="Topologia da rede empresarial" width="900">
 </p>
 
 A utilização de VLANs permitiu compreender na prática como uma organização pode estruturar a sua rede de acordo com departamentos, funções ou níveis de acesso.
